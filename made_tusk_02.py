@@ -1,4 +1,4 @@
-city = ["Moscow", "Sankt-Putinsburg", "Sevastopol"]
+city = ["Москва", "Санкт-Петербург", "Севастополь"]
 ppl = [12635, 5380, 390]
 print(f"Население {city[1]} - {ppl[1]} тысяч человек")
 allppl = 0
