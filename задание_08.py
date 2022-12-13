@@ -8,5 +8,4 @@ def spisok():
     for key, val in employees.items():
         if val >= 100000:
             top_earners.append((key,val))
-    print(top_earners)
-spisok()
+
