@@ -10,3 +10,5 @@ def spisok():
             top_earners.append((key,val))
             print(top_earners)
 spisok()
+
+# Хотелось бы чтобы словарь сотрудников принимался в виде параметра 
