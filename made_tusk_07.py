@@ -24,3 +24,5 @@ def otchet():
       b += c['quantity']
     print(f"{x} - {b} шт, стоимость {a}")
 otchet()
+
+# Ну хотелось бы чтобы titles и sales принимались в качестве параметров
