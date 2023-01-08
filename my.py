@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1vkc9lJhFHspzY2tAMHIANr6eNzsreb6D
+
 # Введите данные:
 cd /content/drive/MyDrive/Colab Notebooks
 
