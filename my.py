@@ -17,7 +17,7 @@ from numpy.core.fromnumeric import mean
 def get_useful_data(df):
   fast_7 = mean(df['close'][0:7])
   slow_25 = mean(df['close'][0:25])
-  if fast_7 >= slow_25:
+  if fast_7 > slow_25:
     num = 1
   else:
     num = 0
